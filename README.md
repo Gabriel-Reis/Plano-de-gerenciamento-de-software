@@ -53,3 +53,17 @@ Plano de gerenciamento de site de vendas de ingressos de cinema, montado para fi
 <h6> TECNOLOGIAS UTILIZADAS (Danilo) </h6>
 
 <h6> CONCLUSÃO (Luiz) </h6> <p>**COMPLETO**</p>
+
+<h3> PARTE 3 - Configuração</h3>
+
+<h6> INTRODUÇÃO - Daniela </h6>
+
+<h6> Identificação - Daniela </h6>
+
+<h6> Controle de versão - Gabriel </h6>
+
+<h6> Controle de mudança - Danilo/Luiz </h6>
+
+<h6> Auditoria de configuração - Carlos  </h6>
+
+<h6> Relato - Guilherme  </h6>
